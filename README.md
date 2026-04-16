@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rohit`
+- 👋 Hi, I’m Rohit Patnaik
 - 👀 I’m interested in Web3 because of its potential use cases
 - 🌱 I’m currently learning Solana Full Stack Web Development 
 - 💞️ I’m looking to collaborate on projects that people actually need!
