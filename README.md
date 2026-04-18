@@ -1,9 +1,19 @@
-- 👋 Hi, I’m Rohit Patnaik
-- 👀 I’m interested in Web3 because of its potential use cases
-- 🌱 I’m currently learning Solana Full Stack Web Development 
-- 💞️ I’m looking to collaborate on projects that people actually need!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Am a 0x dev :)
+👋 Hi, I’m Rohit Patnaik
+
+I’m interested in building practical systems using Python and machine learning.
+
+Currently exploring:
+- Time series forecasting (sktime)
+- Open-source contributions
+- Backend + ML systems
+
+Recently:
+- Contributed a bug fix to sktime (pandas compatibility issue)
+- Working on an AutoForecaster to explore agentic workflows
+
+💡 I enjoy understanding how systems work internally and improving them.
+
+📫 Always open to collaborating on meaningful projects.
 
 <!---
 Rohitstwt/Rohitstwt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
