@@ -1,35 +1,73 @@
 # 👋 Hi, I'm Rohit Patnaik
 
-I'm interested in building practical systems using Python and machine learning.
+💻 Machine Learning & Systems Enthusiast
+🚀 Open Source Contributor (sktime ecosystem)
+🧠 Focused on Time Series + Agentic Workflows
 
 ---
 
-### 🔭 Currently exploring
-- Time series forecasting (sktime)
-- Agentic workflows and benchmarking
-- Open-source contributions
-- Backend + ML systems
+## ⚔️ TECH STACK
+
+### ⚡ Languages & Core
+
+Python • SQL • Git
+
+### 🧠 Machine Learning
+
+NumPy • pandas • scikit-learn • SHAP
+Time Series: sktime
+
+### ⚙️ Systems & Backend
+
+FastAPI (basic) • ML pipelines • Evaluation systems
+
+### 🛠 Tools
+
+Git • GitHub • VS Code • Jupyter
 
 ---
 
-### 🛠️ Recent open-source contributions
+## 🛠️ Open Source Contributions
 
-| PR | Repo | Status |
-|---|---|---|
-| [[FIX] Add substring fallback for tag suggestions in `list_estimators` #366](https://github.com/sktime/sktime-mcp/pull/366) | sktime-mcp | 🟡 Open |
-| [[BUG] Fix `TimesFMForecaster` `python_version` tag to support Python 3.11+ #10106](https://github.com/sktime/sktime/pull/10106) | sktime | 🟡 Open |
-| [[BUG] Fix `HierarchicalProphet` `python_dependencies` version bounds #10103](https://github.com/sktime/sktime/pull/10103) | sktime | 🟡 Open |
-| [[BUG] Fix pandas `FutureWarning` from `"ME"` → `"M"` conversion in `ForecastingHorizon` #9937](https://github.com/sktime/sktime/pull/9937) | sktime | 🟡 Open |
-
----
-
-### 🚀 What I'm building
-- **Agentic Benchmark Suite** for `sktime-mcp` — a benchmarking framework to measure every agentic workflow in the repo (ESoC 2026)
-- **AutoForecaster** — exploring agentic workflows for automated time series forecasting
+| PR                                                                                                      | Repository | Focus                      |
+| ------------------------------------------------------------------------------------------------------- | ---------- | -------------------------- |
+| [[ENH] Agentic workflow benchmark suite #396](https://github.com/sktime/sktime-mcp/pull/396)            | sktime-mcp | Benchmarking framework     |
+| [[FIX] Substring fallback for tag suggestions #366](https://github.com/sktime/sktime-mcp/pull/366)      | sktime-mcp | Utility + UX improvement   |
+| [[BUG] Fix TimesFMForecaster Python version bounds #10106](https://github.com/sktime/sktime/pull/10106) | sktime     | Dependency + compatibility |
+| [[BUG] Fix HierarchicalProphet dependency bounds #10103](https://github.com/sktime/sktime/pull/10103)   | sktime     | Version control fix        |
+| [[DOC] Modernize SHAP API in notebook #4926](https://github.com/shap/shap/pull/4926)                    | shap       | API modernization          |
 
 ---
 
-### 💡 About me
-I enjoy understanding how systems work internally and improving them — whether that's fixing a pandas compatibility bug or designing a 3-dimensional benchmark scoring system from scratch.
+## 🚀 Current Work
 
-📫 Always open to collaborating on meaningful projects.
+### 🔥 Agentic Benchmark Suite (ESoC 2026)
+
+Building a benchmarking framework for sktime-mcp to evaluate agent-generated pipelines across:
+
+* Pipeline validity
+* Task alignment
+* Predictive performance
+
+📌 Proposal repo:
+https://github.com/Rohitstwt/esoc-2026-sktime-agentic-benchmark
+
+---
+
+## 🧪 Focus Areas
+
+* Time series systems (sktime internals)
+* Agentic workflows & evaluation
+* Open-source ML infrastructure
+* Applied ML + explainability
+
+---
+
+## 💡 About Me
+
+I focus on understanding systems at a deeper level — fixing real issues, improving reliability, and building structured solutions like evaluation frameworks rather than just using libraries.
+
+---
+
+📫 Open to collaborating on meaningful ML systems and open-source projects.
+
