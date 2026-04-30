@@ -2,27 +2,23 @@
 
 💻 Machine Learning & Systems Enthusiast
 🚀 Open Source Contributor (sktime ecosystem)
-🧠 Focused on Time Series + Agentic Workflows
+🧠 Focused on Time Series & Agentic Workflows
 
 ---
 
-## ⚔️ TECH STACK
+## ⚔️ Tech Stack
 
-### ⚡ Languages & Core
-
+**Languages & Core**
 Python • SQL • Git
 
-### 🧠 Machine Learning
-
+**Machine Learning**
 NumPy • pandas • scikit-learn • SHAP
 Time Series: sktime
 
-### ⚙️ Systems & Backend
-
+**Systems & Backend**
 FastAPI (basic) • ML pipelines • Evaluation systems
 
-### 🛠 Tools
-
+**Tools**
 Git • GitHub • VS Code • Jupyter
 
 ---
@@ -43,13 +39,13 @@ Git • GitHub • VS Code • Jupyter
 
 ### 🔥 Agentic Benchmark Suite (ESoC 2026)
 
-Building a benchmarking framework for sktime-mcp to evaluate agent-generated pipelines across:
+Building a benchmarking framework for **sktime-mcp** to evaluate agent-generated pipelines across:
 
 * Pipeline validity
 * Task alignment
 * Predictive performance
 
-📌 Proposal repo:
+📌 Proposal:
 https://github.com/Rohitstwt/esoc-2026-sktime-agentic-benchmark
 
 ---
@@ -65,7 +61,7 @@ https://github.com/Rohitstwt/esoc-2026-sktime-agentic-benchmark
 
 ## 💡 About Me
 
-I focus on understanding systems at a deeper level — fixing real issues, improving reliability, and building structured solutions like evaluation frameworks rather than just using libraries.
+I focus on understanding systems deeply — fixing real issues, improving reliability, and building structured solutions like evaluation frameworks rather than just using libraries.
 
 ---
 
